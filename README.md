@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @danielminhnguyen
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning React / NodeJS / Python
+- 📫 How to reach me, email me at minhnguyen68@hotmail.com
